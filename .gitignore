@@ -3,3 +3,4 @@ myvenv/
 .git/
 __pycache__/
 .vscode/
+test*
